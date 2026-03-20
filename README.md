@@ -1,2 +1,8 @@
 # Student-Result-Analysis-Python-Data-Science-
-A Python-based Student Resunt Analysis project that uses CSV datasets with Pandas to calculate averages, identify top performers, and generate performance insights with data visualization.
+This project analyzes student performance using a CSV dataset. It calculates averages, identifies top performers, and visualizes results using Python libraries like Pandas and Matplotlib.
+
+## Features
+-Read student data from CSV file
+-Calculate subject-wise and overall averages
+-Identify top-performing students
+-visualize performance using graphs
